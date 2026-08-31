@@ -20,7 +20,6 @@ int main() {
         if (sumtime >= goal){
             printf("Voce atingiu sua meta!!");
         }
-        else(printf("Ainda faltam %.1f horas \n", lack));
-    }
-    return 0;
+        else(printf("Ainda faltam %.1f horas \n", lack));}
+return 0;
 }
